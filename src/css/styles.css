@@ -1,0 +1,22 @@
+
+h2, h1, .button {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.blue {
+  background-color: dodgerBlue;
+ 
+}
+.green {
+  background-color: mediumSeaGreen;
+ 
+}
+.red {
+  background-color: tomato;
+ 
+}
+
+.button {
+  color: white;
+
+}
